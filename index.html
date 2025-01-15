@@ -4,17 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <title>Coockie Clicker</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="index.js" defer></script>
+    <title>Cookie Clicker</title>
 </head>
 <body>
-    <div class="main-container">
-        <div id="coockie-container">
-            <p>Coockie Container</p>
+    <div class="flex">
+        <div id="cookie-container" class="h-screen flex-1 flex flex-col justify-center items-center bg-blue-500">
+            <p id="total-cookie" class="text-3xl font-bold">Total cookies : 0</p>
+            <p class="text-lg font-bold mb-10">Cookies par seconde : 0</p>
+            <img id="logo-cookie" class="cursor-pointer h-48 hover:h-80 transition-all ease-in-out duration-300" src="https://cdn-icons-png.freepik.com/256/9004/9004938.png?semt=ais_hybrid" alt="cookie logo">
         </div>
-        <div id="cart-container">
+        <div id="cart-container" class="h-screen flex-1 bg-yellow-500">
             <p>Cart Container</p>
         </div>
-        <div id="shop-container">
+        <div id="shop-container" class="h-screen flex-1 bg-red-500">
             <p>Shop Container</p>
         </div>
     </div>

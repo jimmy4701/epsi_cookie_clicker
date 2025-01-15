@@ -1,24 +1,24 @@
-# CDC Fonctionnel de Coockie Clicker
+# CDC Fonctionnel de Cookie Clicker
 
-## 1. Système de coockies
+## 1. Système de cookies
 
 ### 1.1 Gain de cookie par clic
 
-En tant qu'utilisateur, je peux cliquer sur un coockie, pour gagner un coockie.
+En tant qu'utilisateur, je peux cliquer sur un cookie, pour gagner un cookie.
 
-### 1.2 Visualisation du total de coockies
+### 1.2 Visualisation du total de cookies
 
-En tant qu'utilisateur, je peux consulter le total des coockies que j'ai acquis.
+En tant qu'utilisateur, je peux consulter le total des cookies que j'ai acquis.
 
-Le total de coockies est affiché sur la page, mais également dans l'onglet du navigateur.
+Le total de cookies est affiché sur la page, mais également dans l'onglet du navigateur.
 
-### 1.3 Visualisation du gain de coockies par secondes
+### 1.3 Visualisation du gain de cookies par secondes
 
-En tant qu'utilisateur, je peux consulter le nombre de coockies que je gagne automatiquement par seconde.
+En tant qu'utilisateur, je peux consulter le nombre de cookies que je gagne automatiquement par seconde.
 
-### 1.4 Gain automatique de coockies
+### 1.4 Gain automatique de cookies
 
-En tant qu'utilisateur, je gagne le total du nombre de coockies par secondes des éléments que j'ai acheté, chaque seconde.
+En tant qu'utilisateur, je gagne le total du nombre de cookies par secondes des éléments que j'ai acheté, chaque seconde.
 
 
 ## 2. Système d'achat
@@ -29,7 +29,7 @@ En tant qu'utilisateur, je peux consulter l'ensemble des éléments que je peux 
 
 Pour chaque élément du shop, on affiche : 
 - L'image de l'élément à acheter
-- Le prix en coockie de l'élément
+- Le prix en cookie de l'élément
 - Le nombre d'éléments dans le panier
 - Le nom de l'élément
 
@@ -37,7 +37,7 @@ Pour chaque élément du shop, on affiche :
 
 En tant qu'utilisateur, je peux acheter un élément du shop en cliquant dessus, afin de l'ajouter à mon panier.
 
-Pour acheter un élément je dois avoir le nombre de coockies correspondant au prix de l'élément.
+Pour acheter un élément je dois avoir le nombre de cookies correspondant au prix de l'élément.
 
 ### 2.3 Inflation des éléments
 
