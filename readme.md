@@ -32,7 +32,6 @@ Pour chaque élément du shop, on affiche :
 - Le prix en coockie de l'élément
 - Le nombre d'éléments dans le panier
 - Le nom de l'élément
-- Le nombre de coockies par seconde que rapporte l'élément
 
 ### 2.2 Achat d'élément
 
